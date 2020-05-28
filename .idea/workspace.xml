@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="031dceb0-3dea-468c-9e52-4f37189d567b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1cRw4JF7MAlpMDHElhNZz9h9H1V" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cloud-consumer-web/src/main/resources" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.10693877" />
+    <property name="project.structure.side.proportion" value="0.32818183" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\code\MicroServicesDemo\cloud-provider-account\src\main\resources" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\MicroServicesDemo\cloud-consumer-web\src\main\resources" />
+      <recent name="D:\code\MicroServicesDemo\cloud-provider-product\src\main\resources" />
+      <recent name="D:\code\MicroServicesDemo\cloud-provider-order\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="Application" />
+        <option value="MavenRunConfiguration" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.OrderApplication">
+    <configuration name="AccountApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yout.cloud.AccountApplication" />
+      <module name="cloud-provider-account" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yout.cloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerWebApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yout.cloud.ConsumerWebApplication" />
+      <module name="cloud-consumer-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yout.cloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yout.cloud.OrderApplication" />
+      <module name="cloud-provider-order" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yout.cloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yout.cloud.ProductApplication" />
+      <module name="cloud-provider-product" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yout.cloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.AccountApplication" />
+      <item itemvalue="Application.ConsumerWebApplication" />
+      <item itemvalue="Application.OrderApplication" />
+      <item itemvalue="Application.ProductApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AccountApplication" />
+        <item itemvalue="Application.OrderApplication" />
+        <item itemvalue="Application.ProductApplication" />
+        <item itemvalue="Application.ConsumerWebApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="031dceb0-3dea-468c-9e52-4f37189d567b" name="Default Changelist" comment="" />
+      <created>1590504520569</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590504520569</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="291" y="7" key="#AccountApplication" timestamp="1590595057118">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state x="291" y="7" key="#AccountApplication/0.0.1234.783@0.0.1234.783" timestamp="1590595057118" />
+    <state x="98" y="0" key="#Project_Structure" timestamp="1590591944091">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state x="98" y="0" key="#Project_Structure/0.0.1234.783@0.0.1234.783" timestamp="1590591944091" />
+    <state x="334" y="221" width="729" height="340" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1590584750089">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state x="334" y="221" width="729" height="340" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1234.783@0.0.1234.783" timestamp="1590584750089" />
+    <state x="72" y="47" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590594248247">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state x="72" y="47" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1234.783@0.0.1234.783" timestamp="1590594248247" />
+    <state x="423" y="97" key="#com.intellij.ide.util.MemberChooser" timestamp="1590591666752">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state x="423" y="97" key="#com.intellij.ide.util.MemberChooser/0.0.1234.783@0.0.1234.783" timestamp="1590591666752" />
+    <state x="248" y="238" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1590591082982">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state x="248" y="238" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1234.783@0.0.1234.783" timestamp="1590591082982" />
+    <state width="813" height="203" key="GridCell.Tab.0.bottom" timestamp="1590675259836">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state width="813" height="203" key="GridCell.Tab.0.bottom/0.0.1234.783@0.0.1234.783" timestamp="1590675259836" />
+    <state width="813" height="203" key="GridCell.Tab.0.center" timestamp="1590675259836">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state width="813" height="203" key="GridCell.Tab.0.center/0.0.1234.783@0.0.1234.783" timestamp="1590675259836" />
+    <state width="813" height="203" key="GridCell.Tab.0.left" timestamp="1590675259836">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state width="813" height="203" key="GridCell.Tab.0.left/0.0.1234.783@0.0.1234.783" timestamp="1590675259836" />
+    <state width="813" height="203" key="GridCell.Tab.0.right" timestamp="1590675259836">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state width="813" height="203" key="GridCell.Tab.0.right/0.0.1234.783@0.0.1234.783" timestamp="1590675259836" />
+    <state x="119" y="0" key="SettingsEditor" timestamp="1590674009576">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state x="119" y="0" key="SettingsEditor/0.0.1234.783@0.0.1234.783" timestamp="1590674009576" />
+    <state x="339" y="133" width="570" height="524" key="StructurePopup" timestamp="1590591051376">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state x="339" y="133" width="570" height="524" key="StructurePopup/0.0.1234.783@0.0.1234.783" timestamp="1590591051376" />
+    <state x="319" y="123" width="595" height="536" key="find.popup" timestamp="1590587426793">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state x="319" y="123" width="595" height="536" key="find.popup/0.0.1234.783@0.0.1234.783" timestamp="1590587426793" />
+    <state x="0" y="47" key="new project wizard" timestamp="1590584427154">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state x="0" y="47" key="new project wizard/0.0.1234.783@0.0.1234.783" timestamp="1590584427154" />
+    <state x="394" y="138" key="refactoring.ChangeSignatureDialog" timestamp="1590591640634">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state x="394" y="138" key="refactoring.ChangeSignatureDialog/0.0.1234.783@0.0.1234.783" timestamp="1590591640634" />
+    <state x="280" y="104" width="672" height="678" key="search.everywhere.popup" timestamp="1590596331623">
+      <screen x="0" y="0" width="1234" height="783" />
+    </state>
+    <state x="280" y="104" width="672" height="678" key="search.everywhere.popup/0.0.1234.783@0.0.1234.783" timestamp="1590596331623" />
+  </component>
+</project>
