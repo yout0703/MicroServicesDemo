@@ -1,5 +1,6 @@
 package com.yout.cloud.pojo;
 
+import com.baomidou.mybatisplus.annotation.TableName;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
@@ -13,10 +14,12 @@ import java.io.Serializable;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
+@TableName("account")
 public class AccountDomain implements Serializable {
 
     private int id;
-    private String name;
-    private double balance;//账户余额
+    private String accountCode;
+    private String accountName;
+    private double amount;//账户余额
 
 }
